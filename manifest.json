@@ -1,6 +1,6 @@
 {
     "name": "UnlimitedTrinkets",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/huoyan1231/WKUnlimitedTrinkets",
     "description": "Removes the budget restriction for selecting Trinkets in the Trinkets & Bindings screen. No more 'Too expensive!' — pick whatever you want.",
     "dependencies": [
