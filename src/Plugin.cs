@@ -101,7 +101,7 @@ namespace UnlimitedTrinkets
             if (Plugin.IsTrinketBudgetExceeded(selectedNames))
             {
                 // 用橙色提示代替红色错误
-                __instance.costText.text = "<color=\"orange\">[Mod] Leaderboards disabled";
+                __instance.costText.text = "<color=\"orange\">Leaderboards disabled";
             }
             else
             {
