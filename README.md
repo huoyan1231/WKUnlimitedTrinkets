@@ -20,14 +20,11 @@ When your selection exceeds the original budget, an orange hint `[Mod] Leaderboa
 
 ### Installation
 
-1. Ensure **BepInEx 5.x** is installed (via Gale or manual installation)
+1. Ensure **BepInEx 5.x** is installed (via Gale or R2MM or manual installation)
 2. Place `UnlimitedTrinkets.dll` in:
    ```
    <Game Root>/BepInEx/plugins/huoyan1231-UnlimitedTrinkets/
    ```
-   Or Gale profile path:
-   ```
-   D:/GameTools/Gale/DATA/white-knuckle/profiles/Default/BepInEx/plugins/huoyan1231-UnlimitedTrinkets/
    ```
 3. Launch the game and freely select Trinkets in the Trinkets & Bindings interface
 
@@ -65,14 +62,10 @@ White Knuckle 的 Trinkets & Bindings 界面有一个"预算"系统：
 
 ### 安装
 
-1. 确保已安装 **BepInEx 5.x** (via Gale 或手动安装)
+1. 确保已安装 **BepInEx 5.x** (via Gale 或R2MM 或手动安装)
 2. 将 `UnlimitedTrinkets.dll` 放入：
    ```
    <游戏根目录>/BepInEx/plugins/huoyan1231-UnlimitedTrinkets/
-   ```
-   或 Gale profile 路径：
-   ```
-   D:/GameTools/Gale/DATA/white-knuckle/profiles/Default/BepInEx/plugins/huoyan1231-UnlimitedTrinkets/
    ```
 3. 启动游戏，进入 Trinkets & Bindings 界面即可自由选择
 
@@ -113,7 +106,7 @@ This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 
 本项目采用 **GNU 通用公共许可证第三版 (GPL-3.0)** 授权。
 
-See [LICENSE](LICENSE) file for full text. / 完整许可证文本见 [LICENSE](LICENSE) 文件。
+See [LICENSE](https://github.com/huoyan1231/WKUnlimitedTrinkets/blob/main/LICENSE) file for full text. / 完整许可证文本见 [LICENSE](https://github.com/huoyan1231/WKUnlimitedTrinkets/blob/main/LICENSE) 文件。
 
 ---
 
