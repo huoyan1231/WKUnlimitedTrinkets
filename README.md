@@ -131,4 +131,4 @@ The AI assisted in writing the Harmony patches, debugging, and documentation. Al
 
 
 ----------------
-有点意思，这个其实是腾讯Workbuddy生成的，后台显示模型是Kimi-h2.5和minimax-m2.7，但是他自己说他是Claude
+有点意思，这个其实是腾讯Workbuddy生成的，后台显示模型是Kimi-k2.5和minimax-m2.7，但是他自己说他是Claude
