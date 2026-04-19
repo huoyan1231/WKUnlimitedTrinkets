@@ -16,15 +16,14 @@ White Knuckle's Trinkets & Bindings interface has a "budget" system:
 
 This Mod uses Harmony Patches to force-clear the error message and re-enable the Play button after `SelectTrinket` and `UpdateTrinketActivation` methods execute, allowing you to **freely select any number of Trinkets** without budget constraints.
 
-When your selection exceeds the original budget, an orange hint `[Mod] Leaderboards disabled` will be displayed, and the leaderboard will be automatically disabled for that run.
+When your selection exceeds the original budget, an orange hint `Leaderboards disabled` will be displayed, and the leaderboard will be automatically disabled for that run.
 
 ### Installation
 
 1. Ensure **BepInEx 5.x** is installed (via Gale or R2MM or manual installation)
 2. Place `UnlimitedTrinkets.dll` in:
    ```
-   <Game Root>/BepInEx/plugins/huoyan1231-UnlimitedTrinkets/
-   ```
+   <Game Root>/BepInEx/plugins/
    ```
 3. Launch the game and freely select Trinkets in the Trinkets & Bindings interface
 
@@ -58,14 +57,14 @@ White Knuckle 的 Trinkets & Bindings 界面有一个"预算"系统：
 
 本 Mod 通过 Harmony Patch 在 `SelectTrinket` 和 `UpdateTrinketActivation` 方法执行后，强制清除错误提示并重新启用 Play 按钮，从而让你**自由选择任意数量的 Trinkets**，不受预算约束。
 
-当选择超出原版预算时，会显示橙色提示 `[Mod] Leaderboards disabled`，并自动禁用该局的排行榜。
+当选择超出原版预算时，会显示橙色提示 `Leaderboards disabled`，并自动禁用该局的排行榜。
 
 ### 安装
 
 1. 确保已安装 **BepInEx 5.x** (via Gale 或R2MM 或手动安装)
 2. 将 `UnlimitedTrinkets.dll` 放入：
    ```
-   <游戏根目录>/BepInEx/plugins/huoyan1231-UnlimitedTrinkets/
+   <游戏根目录>/BepInEx/plugins/
    ```
 3. 启动游戏，进入 Trinkets & Bindings 界面即可自由选择
 
