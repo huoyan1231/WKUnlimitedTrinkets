@@ -1,9 +1,10 @@
 {
     "name": "UnlimitedTrinkets",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/huoyan1231/WKUnlimitedTrinkets",
     "description": "Removes the budget restriction for selecting Trinkets in the Trinkets & Bindings screen. No more 'Too expensive!' — pick whatever you want.",
     "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
+        "BepInEx-BepInExPack-5.4.2100",
+        "huoyan1231-WK_huoyan1231COMLib"
     ]
 }
