@@ -5,6 +5,6 @@
     "description": "Removes the budget restriction for selecting Trinkets in the Trinkets & Bindings screen. No more 'Too expensive!' — pick whatever you want.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "huoyan1231-WK_huoyan1231COMLib"
+        "huoyan1231-WK_huoyan1231COMLib-1.0.0"
     ]
 }
